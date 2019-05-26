@@ -4,11 +4,17 @@
 
 TextToFolders is to create bulk folders instantly from a simple text file.
 
-## Requirements
-
-- Python 3.6 and above
-
 ## Usage
+
+### Method 1 (Only for windows)
+
+Download the latest release from https://www.github.com/RaviKumarVanapalli/TextToFolders/releases
+
+- No need to have python installed.
+
+### Method 2
+
+- Python 3.6 and above is required.
 
 Clone or download the repository & change the directory
 ```
