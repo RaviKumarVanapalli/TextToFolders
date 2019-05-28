@@ -37,4 +37,11 @@ Clone or download the repository & change the directory
     Enter path to create Folders : /Desktop/Folder
 
     Enter path to text file : /Documents/Sample.txt
-``` 
+```
+### Text file format
+
+ ```
+ Folder1/folder2/folder3
+
+ F4/f6/f7
+ ``` 
